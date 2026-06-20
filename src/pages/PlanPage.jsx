@@ -55,7 +55,7 @@ function PlanPage({ dateDetails, setDateDetails, onConfirm }) {
           disabled={!dateDetails.time || !dateDetails.place}
           onClick={onConfirm}
         >
-          Confirm Date ❤️
+          Confirm❤️
         </button>
       </div>
     </div>
